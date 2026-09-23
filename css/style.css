@@ -1,0 +1,30 @@
+/* 6 */
+.active {
+  color: red;
+}
+
+/* 9 */
+.stripped {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* 10 */
+.external {
+  color: brown;
+}
+
+/* 14 */
+.like {
+  background-color: gray;
+  color: black;
+
+  transition:
+    color linear 250ms,
+    background-color linear 250ms;
+}
+
+.liked {
+  background-color: red;
+  color: white;
+}
+/* 14 */
