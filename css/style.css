@@ -21,3 +21,8 @@
 .opened .answer {
   display: block;
 }
+
+/* 9 */
+.is-read {
+  color: rgb(183, 199, 206);
+}
